@@ -6,6 +6,19 @@ Git is a *VCS- Version control System*
 There are three types of *VCS*
 ### 1. Local 
 ### 2. Centerilized 
-### 1. Distributed VCS Like - Git
+### 3. Distributed VCS Like - Git
 
 ## Note: Git is a Distributed Version Control System.
+
+## Create a Git Repo
+We can create a brand new Git repo using these 2 commands
+
+### 1. Locally
+```
+git init
+```
+
+### 2. Clone an remote Repo
+```
+git clone [URL]
+```
